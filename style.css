@@ -12,6 +12,9 @@
 .outfit-600 {
   font-weight: 600;
 }
+body{
+  background-color: #0D192C;
+}
 .avatar{
     width: 100px;
     height: 100px;
