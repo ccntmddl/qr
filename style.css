@@ -1,0 +1,19 @@
+.outfit {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.outfit-300 {
+  font-weight: 300;
+}
+.outfit-400 {
+  font-weight: 400;
+}
+.outfit-600 {
+  font-weight: 600;
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    background-image: url(./images/image-avatar.png);
+}
